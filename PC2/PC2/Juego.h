@@ -49,7 +49,7 @@ public:
 
 	Rectangle Area()
 	{
-		return Rectangle(x, y, ancho, alto);
+		return Rectangle(x, y, ancho*3, alto*4);
 	}
 	Rectangle NextArea()
 	{
@@ -85,11 +85,11 @@ private:
 public:
 	Jugador(Bitmap^ img)
 	{
-		x = 1; y = 100;
+		x = 1; y = 500;
 		dx = dy = 0;
 
 		ancho = img->Width /10;
-		alto = img->Height*10 ;
+		alto = img->Height/1 ;
 
 		accion = CaminarDerecha;
 	}
@@ -129,12 +129,13 @@ ref class ControladorJuego
 private:
 	Jugador* jugador;
 	Bitmap^ imgJugador;
+
 public:
 	ControladorJuego()
 	{
 
 		imgJugador = gcnew Bitmap("Imagenes\\MarioWalk.PNG");
-
+		
 		jugador = new Jugador(imgJugador);
 
 	}
