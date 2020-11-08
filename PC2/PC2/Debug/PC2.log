@@ -1,0 +1,29 @@
+﻿  MyForm.cpp
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(28,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(31,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(52,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(52,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(56,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(56,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(91,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(92,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  PC2.cpp
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(28,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(31,10): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(52,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(52,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(56,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(56,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(91,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(92,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,59): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Programacion\PC2\PC2\PC2\Juego.h(118,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PC2.vcxproj -> C:\Users\david\Documents\Programacion\PC2\PC2\Debug\PC2.exe
